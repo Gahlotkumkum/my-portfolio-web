@@ -15,7 +15,7 @@ git clone https://github.com/<your-github-username>/my-portfolio-web.git
 ```
   
 ```
-4. Create a new branch.
+4.Create a new branch.
 ```css
 git checkout -b <your_branch_name>
 ```
